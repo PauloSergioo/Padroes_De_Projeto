@@ -1,4 +1,4 @@
-# Explicando cada Padrão De Projeto do GoF
+# Sinopse do Livro Padrão De Projeto do GoF
 
 <img alt="Paulo-Spring" height="800" width="800" src="https://user-images.githubusercontent.com/88008441/229867908-ae89292b-efeb-45a9-a53b-b03e450416af.png">
 
