@@ -7,18 +7,30 @@ GoF, ou "Gang of Four" se refere à um grupo de quatro grandes nomes no desenvol
 
 # Padrões de Projeto Criacionais
 
--
--
--
+- ## Factory
+- ## Abstract Factory
+- ## Singleton 
+- ## Builder
+- ## Prototype
 
 # Padrões Estruturais
 
--
--
--
+- ## Adapter
+- ## Bridge
+- ## Composite
+- ## Decorator
+- ## Facade
+- ## Flyweight
+- ## Mediator
+- ## Proxy
 
 # Padrões Comportamentais
 
--
--
--
+- ## Chain of Responsability
+- ## Command
+- ## Iterator
+- ## Memento
+- ## Observer
+- ## State
+- ## Strategy
+- ## Template Method
