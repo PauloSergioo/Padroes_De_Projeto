@@ -6,3 +6,19 @@ GoF, ou "Gang of Four" se refere à um grupo de quatro grandes nomes no desenvol
 
 
 # Padrões de Projeto Criacionais
+
+-
+-
+-
+
+# Padrões Estruturais
+
+-
+-
+-
+
+# Padrões Comportamentais
+
+-
+-
+-
